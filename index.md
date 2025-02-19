@@ -4,33 +4,31 @@ layout: home
 nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+This guide isn't filled with cryptic symbols, Mundane formulas or mind numbing proofs. This is meant as a guide to complete beginner to someone who can understand 90% of all ML papers, equations, ideas etc and the for the remaining 10% equip them with the tools required to understand it on their own.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+If you are someone who is new to maths, hates maths or even loves maths and, completely understands ML mathematics. I wish this book to be an imaginative explorative journey for you. It is meant to be a joyful experience with each idea, where I would like to ponder and grok the beautiful underlying ideas of things and how they were built.
 
-More specifically, the created site:
+### Prerequite mathematical knowledge
+Absolutely nothing, You do not even need to know most mathematics. This is an idea book, I want you to question things and proofs. Build on them along with me. And anytime you do not understand anything, to actually go and search for it. Figure it out, It will be tough but if you are truly a curious mind. That should be a daily thing for you.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+### Why learn ML Mathematics 
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+When I started out with ML, the answer that most of my college seniors gave me was "You do not need to understand maths to do ML". Which is pretty good advice for someone starting out or for someone who is more interested in ML application rather than ML engineering. 
 
-To get started with creating a site, simply:
+This is also the advice that I used to give, but my opinion has changed over time. Now it is "You do not NEED to understand maths to do ML, but you do NEED it to build it"
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+The two primary reasons are:
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+* Maths is fun and you would like to understand how these magical ML things (Flux, Veo2, DeepSeek) work. Because in my opinion they really are nothing less than magic. 
+* You want to make some of this magic yourself and turn into a wizard.
+* 
+So do you need to learn ML maths, No. But should you, Yes. 
 
-----
+### How to read this book
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+* Sequentially: I have structured this guide so as to gradually build up on ideas, show their code implementation because that is important and actually build somewhat of a ML algorithm specifically for that chapter. Which will be tough, for you and me both. As most ideas in ML is built on top of multiple mathematical ideas. But I believe a curious mind is not only curious but is full of imagination, hopes and dreams. So if you can imagine the ideas with me, you should be good to go. 
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+* Topics as required: Now I do not want to limit this book to complete beginers. As it is the nature of a Curious mind, You will have your own imaginative world of ideas and understanding. It is extremely unlikely that you will have absolutely no background in maths or the concepts we are going to talk about. In that case, feel free to jump to the idea that you do not understand. Or do not like. And while reading that, if I ever mention an idea you haven't heard of. I will try my best to keep it to a previous chapter, which you can navigate to and read.  
+
+So stay curious and enjoy the ride
