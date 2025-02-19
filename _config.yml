@@ -1,8 +1,11 @@
-title: Just the Docs Template
+title: Machine Learning Mathematics for the Curious Mind
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://goyalpramod.github.io/MLMCM/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+plugins:
+  - jekyll-default-layout
