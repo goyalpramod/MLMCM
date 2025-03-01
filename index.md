@@ -32,3 +32,14 @@ So do you need to learn ML maths, No. But should you, Yes.
 * Topics as required: Now I do not want to limit this book to complete beginers. As it is the nature of a Curious mind, You will have your own imaginative world of ideas and understanding. It is extremely unlikely that you will have absolutely no background in maths or the concepts we are going to talk about. In that case, feel free to jump to the idea that you do not understand. Or do not like. And while reading that, if I ever mention an idea you haven't heard of. I will try my best to keep it to a previous chapter, which you can navigate to and read.  
 
 So stay curious and enjoy the ride
+
+### Aknowledgement 
+
+This book takes heavy inspiration from the mml book, 3blue1brown, statquest, & stanford lectures. Along with thanks to all the amazing teachers, who taugt me to love mathematics since I was a child. 
+
+
+{Talk about how the book is structured, which chapter deals with what and how after the end of a chapter you build an ML algorithm from scratch using the ideas introduced in that section. Also add the fact there are excercises at the end}
+
+
+[SELF_NOTES]
+- Maybe put geometry first. As it makes linear algebra easier to understand 
