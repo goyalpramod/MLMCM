@@ -43,3 +43,8 @@ This book takes heavy inspiration from the mml book, 3blue1brown, statquest, & s
 
 [SELF_NOTES]
 - Maybe put geometry first. As it makes linear algebra easier to understand 
+
+
+he way this book is structured, I have tried to build ideas on top of each other. And we will code out each idea, building a library called EzMath along the way. So we understand how we can replecate the maths, in real world scenarios. 
+
+As well as I will give you excercies at the code. Both code and manual pen and paper work. To help you learn the best. 
