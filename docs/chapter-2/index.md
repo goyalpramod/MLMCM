@@ -6,4 +6,6 @@ has_children: true
 
 # Chapter 2
 
-Advanced mathematical concepts for machine learning.
+Analytic Geometry for machine learning 
+
+{Do the same as for the index of linear algebra}

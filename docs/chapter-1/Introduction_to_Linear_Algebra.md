@@ -34,12 +34,25 @@ That is where we introduce coordinate points. These are like addresses, which de
 
 if we assume x and y axis are always fixed, we can see that. We have defined a fixed length for x. This is called the magnitude and if we take the angle x forms with the x axis, we can see that we have defined a direction as well. 
 
-This is what is called a vector. 
+This is what is called a geometric vector. 
 
 Different disciplines, call different things vectors and have different definitions. But I believe it all boils down to this simple definition. A vector is a straight line with defined magnitude and direction. And by the end of this chapter I will convince you to see it in the same light. 
 
 [IMAGE](CS/physics/maths definition of vectors)
 
 Even though we are more aligned to the mathematical and cs discipline. The physics definitions helps us connect vectors to the real world, and that is essentially what we want to do at the end of the day. Connect real world to mathematical abstractions. 
-{talk about vectors}
+
+TALK ABOUT THE DIFFERENCE OF GEOMETRIC VECTOR AND CS/ML vectors 
+
+
+We will jump between Geometric vectors and vectors throughtout the book and I will explicitly mention which one is being used at any given moment. There are rules that either of them need to maintain to be called by their names 
+
+Geometric vector -> Must have a direction and a magnitude, Must follow the rule of triangle addition (or whatever it is called)
+Vector -> Can be multiplied by a scalar
+
+in code we can represent a vector as 
+
+```python
+
+```
 
