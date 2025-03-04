@@ -14,7 +14,7 @@ So linear algebra boils down to building relationships between different lines u
 
 [IMAGE](Lines being added together)
 
-Now that we understand what linear algebra means, how do we use it? First we need a place to draw our lines right. That's the coordinate system. 
+Now that we understand what linear algebra means, how do we use it? First we need a place to draw our lines right. That's the coordinate system.  (Catesian plane)
 
 It is a 2d grid. With an origin on which we can draw straight lines. 
 
