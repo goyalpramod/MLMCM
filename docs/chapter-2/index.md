@@ -9,3 +9,8 @@ has_children: true
 Analytic Geometry for machine learning 
 
 {Do the same as for the index of linear algebra}
+
+{Excercises to add at different places
+
+
+}

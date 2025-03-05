@@ -9,3 +9,5 @@ has_children: true
 Introduction to Linear Algebra
 
 {Add some content about why learn Linear Algebra. What is it about, where it is used, real world scenarios}
+
+{Excercises to add at different places}
