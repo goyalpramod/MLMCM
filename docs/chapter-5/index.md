@@ -7,3 +7,7 @@ has_children: true
 # Chapter 5
 
 Probability & Distribution in Machine Learning 
+
+I love my oversimplifications as much as the next guy, And probability in my opinion (and as I was taught in school by a brilliant professor) is simply 
+
+Favourable cases/ Total cases
