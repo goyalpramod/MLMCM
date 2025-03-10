@@ -21,3 +21,4 @@ Things to check out
 MAximum Likelihood estimation
 Maximum Posterior estimation
 Graphs 
+Time series
